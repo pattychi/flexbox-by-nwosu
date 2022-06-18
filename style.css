@@ -79,3 +79,23 @@
       color: #FFF;  
       transition: 0.4s;  
  }  
+ul{
+  width: auto;
+  float: left;
+  margin-top: 8px;
+}
+li{
+  display: inline-block;
+  padding: 15px 30px;
+}
+a{
+  text-align: center;
+  color: red;
+  text-decoration: none;
+  text-family: 'open sans', sans-serif;
+  font-size: 20px;
+}
+a:hover{
+  color: greenyellow;
+  transition: 0.5s;
+}
